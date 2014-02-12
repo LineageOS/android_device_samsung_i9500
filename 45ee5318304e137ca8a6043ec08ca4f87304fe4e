@@ -16,6 +16,24 @@
       "revId": "45ee5318304e137ca8a6043ec08ca4f87304fe4e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fade3982_590c7994",
+        "filename": "i9500.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 164,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2014-02-12T11:37:35Z",
+      "side": 1,
+      "message": "I just added this as they were present in samsung\u0027s build.prop.",
+      "parentUuid": "fade3982_79c7bd45",
+      "revId": "45ee5318304e137ca8a6043ec08ca4f87304fe4e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
