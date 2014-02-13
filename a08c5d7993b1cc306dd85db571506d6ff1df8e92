@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fade3982_5ff57981",
+        "filename": "configs/media_codecs.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 105,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2014-02-13T10:56:19Z",
+      "side": 1,
+      "message": "Please commit another patch without \"/\" at the end of the line before \"\u003e\". I don\u0027t know why i have problems in pushing new patches, this is really strange",
+      "revId": "a08c5d7993b1cc306dd85db571506d6ff1df8e92",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
