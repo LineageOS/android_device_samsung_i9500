@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7af24918_ad1629a5",
+        "filename": "configs/media_profiles.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-04-10T05:29:06Z",
+      "side": 1,
+      "message": "Unnecessary reformatting.",
+      "revId": "59b4687ab8cfe2a3e7969c8ce06aec26d6ca46b5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7af24918_cd11f5b1",
+        "filename": "configs/media_profiles.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 92,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-04-10T05:29:06Z",
+      "side": 1,
+      "message": "Does this channel change have any effect on recording?",
+      "revId": "59b4687ab8cfe2a3e7969c8ce06aec26d6ca46b5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7af24918_0d0c7d93",
+        "filename": "configs/media_profiles.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 594,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-04-10T05:29:06Z",
+      "side": 1,
+      "message": "Level 4.2 is working correctly?",
+      "revId": "59b4687ab8cfe2a3e7969c8ce06aec26d6ca46b5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
