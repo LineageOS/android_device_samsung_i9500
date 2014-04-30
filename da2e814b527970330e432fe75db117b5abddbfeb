@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7af24918_c78d3b7d",
+        "filename": "i9500.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 198,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-04-30T09:02:44Z",
+      "side": 1,
+      "message": "We definitely aren\u0027t capable of low latency playback.",
+      "revId": "da2e814b527970330e432fe75db117b5abddbfeb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
