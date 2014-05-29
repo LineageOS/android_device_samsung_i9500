@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da0c15f0_061d6d73",
+        "filename": "rootdir/etc/init.universal5410.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 95,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-05-29T07:03:33Z",
+      "side": 1,
+      "message": "I\u0027m not sure you need to be changing these values at all. They are set in init.rc already.",
+      "revId": "0c584317188763f15db66617fabb62723e2116f9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_66126964",
+        "filename": "rootdir/etc/init.universal5410.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 465,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-05-29T07:03:33Z",
+      "side": 1,
+      "message": "Also not sure these values need to be tweaked.",
+      "revId": "0c584317188763f15db66617fabb62723e2116f9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
