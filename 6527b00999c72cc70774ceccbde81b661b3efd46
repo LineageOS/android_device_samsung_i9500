@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a061dce_406abf1b",
+        "filename": "system.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-07-16T04:38:34Z",
+      "side": 1,
+      "message": "Why do you want to set this by default?",
+      "revId": "6527b00999c72cc70774ceccbde81b661b3efd46",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a061dce_c0640f4b",
+        "filename": "system.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-07-16T04:38:34Z",
+      "side": 1,
+      "message": "Let\u0027s leave this at default.",
+      "revId": "6527b00999c72cc70774ceccbde81b661b3efd46",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a061dce_a0775b01",
+        "filename": "system.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-07-16T04:38:34Z",
+      "side": 1,
+      "message": "This should already default to off, unless you are running eng builds for some reason.",
+      "revId": "6527b00999c72cc70774ceccbde81b661b3efd46",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a061dce_e05f9373",
+        "filename": "system.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-07-16T04:38:34Z",
+      "side": 1,
+      "message": "I\u0027m still not convinced these are actually really useful.",
+      "revId": "6527b00999c72cc70774ceccbde81b661b3efd46",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a061dce_8074d7fd",
+        "filename": "system.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-07-16T04:38:34Z",
+      "side": 1,
+      "message": "Let\u0027s leave this at default.",
+      "revId": "6527b00999c72cc70774ceccbde81b661b3efd46",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
