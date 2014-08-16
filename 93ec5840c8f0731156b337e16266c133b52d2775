@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_2a232707",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 311,
+      "author": {
+        "id": 1579
+      },
+      "writtenOn": "2014-08-16T23:38:25Z",
+      "side": 1,
+      "message": "no need to overlay config_proximityCheckTimeout since the default value is 250ms, see http://review.cyanogenmod.org/#/c/69169/",
+      "revId": "93ec5840c8f0731156b337e16266c133b52d2775",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
