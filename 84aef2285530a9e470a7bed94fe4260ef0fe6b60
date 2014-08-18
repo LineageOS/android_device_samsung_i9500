@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_852fcca0",
+        "filename": "overlay/packages/apps/Torch/res/values/config.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-08-18T17:58:26Z",
+      "side": 1,
+      "message": "whitespace",
+      "revId": "84aef2285530a9e470a7bed94fe4260ef0fe6b60",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_652c30ac",
+        "filename": "overlay/packages/apps/Torch/res/values/config.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-08-18T17:58:26Z",
+      "side": 1,
+      "message": "whitespace",
+      "revId": "84aef2285530a9e470a7bed94fe4260ef0fe6b60",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
