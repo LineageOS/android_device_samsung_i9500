@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_275d12ea",
+        "filename": "rootdir/etc/fstab.universal5410",
+        "patchSetId": 3
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-08-26T08:37:56Z",
+      "side": 1,
+      "message": "Unnecessary spacing...",
+      "revId": "53813a816a81254e336ab4dc9941901739b2ceef",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
