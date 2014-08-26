@@ -16,6 +16,24 @@
       "revId": "bbf9d075f45722287dab205d90b8dd85497216ad",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_eabe41d3",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2014-08-26T21:57:24Z",
+      "side": 1,
+      "message": "I know, it isn\u0027t really useful but it\u0027s better to have this dynamic.",
+      "parentUuid": "7a1b2928_67e42a0d",
+      "revId": "bbf9d075f45722287dab205d90b8dd85497216ad",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
