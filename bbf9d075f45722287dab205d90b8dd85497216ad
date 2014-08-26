@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_67e42a0d",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-08-26T08:55:17Z",
+      "side": 1,
+      "message": "TBH this isn\u0027t a really useful change either.",
+      "revId": "bbf9d075f45722287dab205d90b8dd85497216ad",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
