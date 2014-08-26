@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_0463b41b",
+        "filename": "rootdir/etc/init.universal5410.rc",
+        "patchSetId": 2
+      },
+      "lineNbr": 498,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-08-26T04:48:27Z",
+      "side": 1,
+      "message": "I thought you were trying to avoid making the sdcard unwritable by apps?",
+      "revId": "271d13a6deb4102b65a2bab1597501c1539bb0d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
