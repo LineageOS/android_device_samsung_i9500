@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_2aecb9c6",
+        "filename": "rootdir/etc/init.universal5410.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-08-27T05:14:18Z",
+      "side": 1,
+      "message": "Trailing whitespace",
+      "revId": "ba59420ff41831a266cbd35f4f2a4e59183b996b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_cadb851a",
+        "filename": "rootdir/etc/init.universal5410.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-08-27T05:14:18Z",
+      "side": 1,
+      "message": "This stuff is useful, would prefer it was in a separate commit",
+      "revId": "ba59420ff41831a266cbd35f4f2a4e59183b996b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_8ad18dfe",
+        "filename": "rootdir/etc/init.universal5410.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 489,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-08-27T05:14:18Z",
+      "side": 1,
+      "message": "I don\u0027t think we have this label",
+      "revId": "ba59420ff41831a266cbd35f4f2a4e59183b996b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_6aceb15b",
+        "filename": "rootdir/etc/init.universal5410.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 496,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-08-27T05:14:18Z",
+      "side": 1,
+      "message": "init won\u0027t understand this",
+      "revId": "ba59420ff41831a266cbd35f4f2a4e59183b996b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_4ae775e4",
+        "filename": "rootdir/etc/ueventd.universal5410.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 112,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-08-27T05:14:18Z",
+      "side": 1,
+      "message": "Don\u0027t make this world writable",
+      "revId": "ba59420ff41831a266cbd35f4f2a4e59183b996b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
