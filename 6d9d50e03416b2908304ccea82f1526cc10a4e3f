@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_6e0cfe94",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 80,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2014-08-30T03:31:03Z",
+      "side": 1,
+      "message": "redundant line, remove it and the empty line above it",
+      "revId": "6d9d50e03416b2908304ccea82f1526cc10a4e3f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
