@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_22a4bca4",
+        "filename": "i9500.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 143,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-09-14T09:40:35Z",
+      "side": 1,
+      "message": "As far as I can tell this isn\u0027t used anywhere.",
+      "revId": "8e1d67eef7b4e8c0735711d4e654ede296f04a7f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_e2992470",
+        "filename": "i9500.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 144,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-09-14T09:40:35Z",
+      "side": 1,
+      "message": "This property is for devices that do not play the ringtone more than once. Qualcomm devices need this.",
+      "revId": "8e1d67eef7b4e8c0735711d4e654ede296f04a7f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_c29ea855",
+        "filename": "i9500.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 145,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-09-14T09:40:35Z",
+      "side": 1,
+      "message": "The default value for ro.telephony.call_ring.delay is 3000.",
+      "revId": "8e1d67eef7b4e8c0735711d4e654ede296f04a7f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
