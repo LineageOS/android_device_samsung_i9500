@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "7a1b2928_82bb10c4",
+        "filename": "i9500.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 142,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-09-14T09:41:46Z",
+      "side": 1,
+      "message": "This only appears to provide an STK command and emergency dialing extensions.",
+      "revId": "8e1d67eef7b4e8c0735711d4e654ede296f04a7f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7a1b2928_22a4bca4",
         "filename": "i9500.mk",
         "patchSetId": 3
