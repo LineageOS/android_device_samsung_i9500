@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_c2b988eb",
+        "filename": "configs/gps.conf",
+        "patchSetId": 2
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-09-14T08:50:25Z",
+      "side": 1,
+      "message": "Not sure if not using a standard NTP pool is what you actually want.",
+      "revId": "f2bd737401d58ea6be7e64e03bdd7fa7fabcabc3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_22cf9c80",
+        "filename": "configs/gps.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-09-14T08:50:25Z",
+      "side": 1,
+      "message": "This just changes the debug level it appears. Not sure why the mask got re-ordered though.",
+      "revId": "f2bd737401d58ea6be7e64e03bdd7fa7fabcabc3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
