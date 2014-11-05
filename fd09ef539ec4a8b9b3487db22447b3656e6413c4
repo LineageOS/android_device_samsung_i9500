@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a18252c_12edb48b",
+        "filename": "i9500.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-11-05T08:38:36Z",
+      "side": 1,
+      "message": "Put the ANT+ section here.",
+      "revId": "fd09ef539ec4a8b9b3487db22447b3656e6413c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
