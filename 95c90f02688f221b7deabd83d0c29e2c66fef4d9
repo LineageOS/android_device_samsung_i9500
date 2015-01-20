@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "5a9d85d2_8f17c3ec",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-20T13:24:01Z",
+      "side": 1,
+      "message": "i9500 doesn\u0027t use a prebuilt audio_policy library. Just don\u0027t configure your audio policy with offload.",
+      "parentUuid": "5a9d85d2_6f96d795",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a9d85d2_2f204f9b",
         "filename": "BoardConfig.mk",
         "patchSetId": 4
