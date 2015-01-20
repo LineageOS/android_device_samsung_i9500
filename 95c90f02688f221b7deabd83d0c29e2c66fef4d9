@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "5a9d85d2_6f96d795",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-01-20T13:11:37Z",
+      "side": 1,
+      "message": "https://github.com/CyanogenMod/android_frameworks_av/commit/7b03ec5d6f889afce1a5c0ea55df152c50359db2\n\nhttps://github.com/CyanogenMod/android_frameworks_av/commit/6ffb297477a3e3ad540565ae8226d4ffbf0750ec\n\nOur audio driver doesn\u0027t support offload.",
+      "parentUuid": "5a9d85d2_0f2593aa",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a9d85d2_2f204f9b",
         "filename": "BoardConfig.mk",
         "patchSetId": 4
@@ -36,6 +54,24 @@
     },
     {
       "key": {
+        "uuid": "5a9d85d2_4f931ba4",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 80,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-01-20T13:11:37Z",
+      "side": 1,
+      "message": "True.",
+      "parentUuid": "5a9d85d2_2f204f9b",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a9d85d2_6f13775d",
         "filename": "BoardConfig.mk",
         "patchSetId": 4
@@ -47,6 +83,24 @@
       "writtenOn": "2015-01-20T12:53:08Z",
       "side": 1,
       "message": "BOARD_EGL_CFG comes alphabetically before BOARD_EGL_SYSTEMUI_PBSIZE_HACK, which is why I put it there originally.",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_af90bf96",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-01-20T13:11:37Z",
+      "side": 1,
+      "message": "I haven\u0027t noticed that.",
+      "parentUuid": "5a9d85d2_6f13775d",
       "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -104,6 +158,24 @@
     },
     {
       "key": {
+        "uuid": "5a9d85d2_efe80719",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-01-20T13:11:37Z",
+      "side": 1,
+      "message": "This is just temporary until a new patch set with fixed SELinux will be uploaded.",
+      "parentUuid": "5a9d85d2_6f3a57cf",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a9d85d2_4f379be3",
         "filename": "audio/audio_hw.c",
         "patchSetId": 4
@@ -115,6 +187,24 @@
       "writtenOn": "2015-01-20T12:53:08Z",
       "side": 1,
       "message": "Don\u0027t lump this change into this commit.",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_cfed4b27",
+        "filename": "audio/audio_hw.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 110,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-01-20T13:11:37Z",
+      "side": 1,
+      "message": "Ok...",
+      "parentUuid": "5a9d85d2_4f379be3",
       "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -138,6 +228,24 @@
     },
     {
       "key": {
+        "uuid": "5a9d85d2_2ff32f0c",
+        "filename": "camera/Android.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-01-20T13:11:37Z",
+      "side": 1,
+      "message": "Oops...",
+      "parentUuid": "5a9d85d2_af343fde",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a9d85d2_cf51cb10",
         "filename": "cm.mk",
         "patchSetId": 4
@@ -149,6 +257,24 @@
       "writtenOn": "2015-01-20T12:53:08Z",
       "side": 1,
       "message": "Is there a reason to change the formatting on all these lines?",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_0ff8f3e4",
+        "filename": "cm.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-01-20T13:11:37Z",
+      "side": 1,
+      "message": "I\u0027ve just reformatted the whole device tree. (cleaner)",
+      "parentUuid": "5a9d85d2_cf51cb10",
       "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -172,6 +298,24 @@
     },
     {
       "key": {
+        "uuid": "5a9d85d2_6fdd3770",
+        "filename": "configs/media_codecs.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-01-20T13:11:37Z",
+      "side": 1,
+      "message": "I\u0027m starting to hate whitespaces...",
+      "parentUuid": "5a9d85d2_2f57af03",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a9d85d2_0f5c7324",
         "filename": "configs/media_profiles.xml",
         "patchSetId": 4
@@ -183,6 +327,24 @@
       "writtenOn": "2015-01-20T12:53:08Z",
       "side": 1,
       "message": "tabs",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_efcf67b1",
+        "filename": "configs/media_profiles.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 307,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-01-20T13:11:37Z",
+      "side": 1,
+      "message": "...",
+      "parentUuid": "5a9d85d2_0f5c7324",
       "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -308,6 +470,24 @@
     },
     {
       "key": {
+        "uuid": "5a9d85d2_afbefffc",
+        "filename": "libcorkscrew/corkscrew.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-01-20T13:11:37Z",
+      "side": 1,
+      "message": "Gralloc.",
+      "parentUuid": "5a9d85d2_0f73d3b2",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a9d85d2_6f6897bb",
         "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
         "patchSetId": 4
@@ -319,6 +499,24 @@
       "writtenOn": "2015-01-20T12:53:08Z",
       "side": 1,
       "message": "i9500 most definitely should not have this enabled.",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_ef3647b3",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 264,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-01-20T13:11:37Z",
+      "side": 1,
+      "message": "Why?",
+      "parentUuid": "5a9d85d2_6f6897bb",
       "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -342,6 +540,24 @@
     },
     {
       "key": {
+        "uuid": "5a9d85d2_cf3b8b9b",
+        "filename": "overlay/packages/apps/Settings/res/values/bools.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-01-20T13:11:37Z",
+      "side": 1,
+      "message": "...",
+      "parentUuid": "5a9d85d2_8f5fc30d",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a9d85d2_cf9f0bb3",
         "filename": "power/power.c",
         "patchSetId": 4
@@ -359,6 +575,24 @@
     },
     {
       "key": {
+        "uuid": "5a9d85d2_6f4b772c",
+        "filename": "power/power.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-01-20T13:11:37Z",
+      "side": 1,
+      "message": "Trust me, this is the only solution to remove all screen wake-up delays.",
+      "parentUuid": "5a9d85d2_cf9f0bb3",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a9d85d2_2fa5ef03",
         "filename": "proprietary-files.txt",
         "patchSetId": 4
@@ -370,6 +604,24 @@
       "writtenOn": "2015-01-20T12:53:08Z",
       "side": 1,
       "message": "You don\u0027t need to : if the original path is the same.",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_af555fc7",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-01-20T13:11:37Z",
+      "side": 1,
+      "message": "I thought that this is easier to understand.",
+      "parentUuid": "5a9d85d2_2fa5ef03",
       "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -404,6 +656,24 @@
       "writtenOn": "2015-01-20T12:53:08Z",
       "side": 1,
       "message": "Lots of trailing whitespace.",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_ef5da7ed",
+        "filename": "ril/telephony/java/com/android/internal/telephony/ExynosXMM6360RIL.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 288,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-01-20T13:11:37Z",
+      "side": 1,
+      "message": "...",
+      "parentUuid": "5a9d85d2_6faff7e3",
       "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
