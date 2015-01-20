@@ -1,0 +1,497 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a9d85d2_0f2593aa",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-20T12:53:08Z",
+      "side": 1,
+      "message": "This looks wrong, there\u0027s no reason for this.",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_2f204f9b",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 80,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-20T12:53:08Z",
+      "side": 1,
+      "message": "If you are setting things false, you generally don\u0027t need to even have the flag.",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_6f13775d",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-20T12:53:08Z",
+      "side": 1,
+      "message": "BOARD_EGL_CFG comes alphabetically before BOARD_EGL_SYSTEMUI_PBSIZE_HACK, which is why I put it there originally.",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_ef25a7ae",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 156,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-20T12:53:08Z",
+      "side": 1,
+      "message": "Not sure you need DISABLE_INIT_BLANK",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_cf2a6b7e",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 161,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-20T12:53:08Z",
+      "side": 1,
+      "message": "Are these LED paths even used in CM?",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_6f3a57cf",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-20T12:53:08Z",
+      "side": 1,
+      "message": "Trailing whitespace, don\u0027t leave a TODO list in the README",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_4f379be3",
+        "filename": "audio/audio_hw.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 110,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-20T12:53:08Z",
+      "side": 1,
+      "message": "Don\u0027t lump this change into this commit.",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_af343fde",
+        "filename": "camera/Android.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-20T12:53:08Z",
+      "side": 1,
+      "message": "Spaces, not tab",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_cf51cb10",
+        "filename": "cm.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-20T12:53:08Z",
+      "side": 1,
+      "message": "Is there a reason to change the formatting on all these lines?",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_2f57af03",
+        "filename": "configs/media_codecs.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-20T12:53:08Z",
+      "side": 1,
+      "message": "Trailing whitespace all over this file.",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_0f5c7324",
+        "filename": "configs/media_profiles.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 307,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-20T12:53:08Z",
+      "side": 1,
+      "message": "tabs",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_2f6e8fc9",
+        "filename": "i9500.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-20T12:53:08Z",
+      "side": 1,
+      "message": "Why reformat the whole file for no reason?",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_af4b9f58",
+        "filename": "i9500.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 182,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-20T12:53:08Z",
+      "side": 1,
+      "message": "Trailing whitespace",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_8f48635d",
+        "filename": "i9500.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 196,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-20T12:53:08Z",
+      "side": 1,
+      "message": "Unused properties in cm-12.0",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_ef73e7b2",
+        "filename": "i9500.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 217,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-20T12:53:08Z",
+      "side": 1,
+      "message": "Not useful.",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_6f41b739",
+        "filename": "i9500.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 261,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-20T12:53:08Z",
+      "side": 1,
+      "message": "Unused property",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_4f3e7bb9",
+        "filename": "i9500.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 262,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-20T12:53:08Z",
+      "side": 1,
+      "message": "Trailing whitespace",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_0f73d3b2",
+        "filename": "libcorkscrew/corkscrew.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-20T12:53:08Z",
+      "side": 1,
+      "message": "What\u0027s depending on this library?",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_6f6897bb",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 264,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-20T12:53:08Z",
+      "side": 1,
+      "message": "i9500 most definitely should not have this enabled.",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_8f5fc30d",
+        "filename": "overlay/packages/apps/Settings/res/values/bools.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-20T12:53:08Z",
+      "side": 1,
+      "message": "Trailing whitespace",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_cf9f0bb3",
+        "filename": "power/power.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-20T12:53:08Z",
+      "side": 1,
+      "message": "I\u0027m not convinced this power HAL does anything useful at all.",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_2fa5ef03",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-20T12:53:08Z",
+      "side": 1,
+      "message": "You don\u0027t need to : if the original path is the same.",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_0faab3d4",
+        "filename": "pvrsrvctl/pvrsrvctl.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-20T12:53:08Z",
+      "side": 1,
+      "message": "This is kind of neat.",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_6faff7e3",
+        "filename": "ril/telephony/java/com/android/internal/telephony/ExynosXMM6360RIL.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 288,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-20T12:53:08Z",
+      "side": 1,
+      "message": "Lots of trailing whitespace.",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_afb9df30",
+        "filename": "rootdir/etc/init.universal5410.rc",
+        "patchSetId": 4
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-20T12:53:08Z",
+      "side": 1,
+      "message": "Isn\u0027t this not actually useful?",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_4facbbed",
+        "filename": "rootdir/etc/init.universal5410.rc",
+        "patchSetId": 4
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-20T12:53:08Z",
+      "side": 1,
+      "message": "Trailing whitespace",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_8fb6a33b",
+        "filename": "rootdir/etc/init.universal5410.rc",
+        "patchSetId": 4
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-20T12:53:08Z",
+      "side": 1,
+      "message": "Needless reformatting of the entire file.",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_ef81274f",
+        "filename": "rootdir/etc/init.universal5410.rc",
+        "patchSetId": 4
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-20T12:53:08Z",
+      "side": 1,
+      "message": "Why are these being set here?",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_cf86eb64",
+        "filename": "rootdir/etc/init.universal5410.wifi.rc",
+        "patchSetId": 4
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-20T12:53:08Z",
+      "side": 1,
+      "message": "Needless reformatting of the entire file.",
+      "revId": "95c90f02688f221b7deabd83d0c29e2c66fef4d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
