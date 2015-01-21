@@ -1,0 +1,157 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fad55976_0d793530",
+        "filename": "i9500.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-21T10:45:07Z",
+      "side": 1,
+      "message": "Put this in system.prop",
+      "revId": "5c162b94edad96db51ace65247336c356ca59d5b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_6d76f13f",
+        "filename": "i9500.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-21T10:45:07Z",
+      "side": 1,
+      "message": "GPU comes alphabetically after GPS, but before HW composer.",
+      "revId": "5c162b94edad96db51ace65247336c356ca59d5b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_4d732d4e",
+        "filename": "i9500.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 162,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-21T10:45:07Z",
+      "side": 1,
+      "message": "Place this in system.prop",
+      "revId": "5c162b94edad96db51ace65247336c356ca59d5b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_ad8e2925",
+        "filename": "i9500.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 170,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-21T10:45:07Z",
+      "side": 1,
+      "message": "Deprecated package.",
+      "revId": "5c162b94edad96db51ace65247336c356ca59d5b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_8d93654f",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 263,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-21T10:45:07Z",
+      "side": 1,
+      "message": "The setup isn\u0027t quite capable of ambient display yet.",
+      "revId": "5c162b94edad96db51ace65247336c356ca59d5b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_ed98216d",
+        "filename": "overlay/frameworks/base/packages/SystemUI/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-21T10:45:07Z",
+      "side": 1,
+      "message": "This should be enabled by default.",
+      "revId": "5c162b94edad96db51ace65247336c356ca59d5b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_cd9d5d5b",
+        "filename": "overlay/frameworks/base/packages/SystemUI/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-21T10:45:07Z",
+      "side": 1,
+      "message": "See previous comment about ambient display not being ready yet on i9500.",
+      "revId": "5c162b94edad96db51ace65247336c356ca59d5b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_8dba45bf",
+        "filename": "rootdir/etc/init.universal5410.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 522,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-21T10:45:07Z",
+      "side": 1,
+      "message": "I\u0027m not sure init understands setenv here.",
+      "revId": "5c162b94edad96db51ace65247336c356ca59d5b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_addc6919",
+        "filename": "rootdir/etc/init.universal5410.usb.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-21T10:45:07Z",
+      "side": 1,
+      "message": "Duplicate of the line 23",
+      "revId": "5c162b94edad96db51ace65247336c356ca59d5b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
