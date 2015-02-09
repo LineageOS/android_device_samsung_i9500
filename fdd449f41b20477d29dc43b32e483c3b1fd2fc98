@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "bacf61ea_c00354b7",
+        "filename": "audio/ril_interface.c",
+        "patchSetId": 5
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-02-09T22:01:34Z",
+      "side": 1,
+      "message": "True.",
+      "parentUuid": "bacf61ea_a0bbc00d",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bacf61ea_00372cb1",
         "filename": "configs/audio_policy.conf",
         "patchSetId": 5
@@ -30,6 +48,24 @@
       "writtenOn": "2015-02-09T19:46:02Z",
       "side": 1,
       "message": "This is probably not correct anymore. It should probably be 44100 due to recent changes.",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_a000e0ab",
+        "filename": "configs/audio_policy.conf",
+        "patchSetId": 5
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-02-09T22:01:34Z",
+      "side": 1,
+      "message": "True.",
+      "parentUuid": "bacf61ea_00372cb1",
       "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "bacf61ea_40264469",
+        "filename": "i9500.mk",
+        "patchSetId": 5
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-02-09T22:01:34Z",
+      "side": 1,
+      "message": "Oops...",
+      "parentUuid": "bacf61ea_e03bf89a",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bacf61ea_804b1c2b",
         "filename": "i9500.mk",
         "patchSetId": 5
@@ -64,6 +118,24 @@
       "writtenOn": "2015-02-09T19:46:02Z",
       "side": 1,
       "message": "w comes after l and m",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_002c4c49",
+        "filename": "i9500.mk",
+        "patchSetId": 5
+      },
+      "lineNbr": 166,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-02-09T22:01:34Z",
+      "side": 1,
+      "message": "...",
+      "parentUuid": "bacf61ea_804b1c2b",
       "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -121,6 +193,24 @@
     },
     {
       "key": {
+        "uuid": "bacf61ea_e03018a1",
+        "filename": "i9500.mk",
+        "patchSetId": 5
+      },
+      "lineNbr": 216,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-02-09T22:01:34Z",
+      "side": 1,
+      "message": "Again, trust me. It is required on our device.",
+      "parentUuid": "bacf61ea_6048a82e",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bacf61ea_c05514c7",
         "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
         "patchSetId": 5
@@ -132,6 +222,24 @@
       "writtenOn": "2015-02-09T19:46:02Z",
       "side": 1,
       "message": "Is there a reason things in this file got shuffled around so much?",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_202b5032",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 92,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-02-09T22:01:34Z",
+      "side": 1,
+      "message": "Not shuffled. Check the order on frameworks_base config.xml ;)",
+      "parentUuid": "bacf61ea_c05514c7",
       "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -155,6 +263,24 @@
     },
     {
       "key": {
+        "uuid": "bacf61ea_80203c4b",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 173,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-02-09T22:01:34Z",
+      "side": 1,
+      "message": "I forgot to remove this.",
+      "parentUuid": "bacf61ea_a052a0db",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bacf61ea_005e0ce9",
         "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
         "patchSetId": 5
@@ -166,6 +292,24 @@
       "writtenOn": "2015-02-09T19:46:02Z",
       "side": 1,
       "message": "Where did these values come from? We can probably go decompile the stock Samsung framework JARs for these values too.",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_601d480f",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 195,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-02-09T22:01:34Z",
+      "side": 1,
+      "message": "Samsung uses dynamic auto brightness so stock values are not working as should. (Already tried)",
+      "parentUuid": "bacf61ea_005e0ce9",
       "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -189,6 +333,24 @@
     },
     {
       "key": {
+        "uuid": "bacf61ea_c01a3417",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 256,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-02-09T22:01:34Z",
+      "side": 1,
+      "message": "It seems to be correct.",
+      "parentUuid": "bacf61ea_e062d8ac",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bacf61ea_405804fb",
         "filename": "overlay/frameworks/base/packages/SystemUI/res/values/config.xml",
         "patchSetId": 5
@@ -200,6 +362,24 @@
       "writtenOn": "2015-02-09T19:46:02Z",
       "side": 1,
       "message": "This is set to be the default now.",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_a01740ec",
+        "filename": "overlay/frameworks/base/packages/SystemUI/res/values/config.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-02-09T22:01:34Z",
+      "side": 1,
+      "message": "Default is still false: https://github.com/CyanogenMod/android_frameworks_base/blob/cm-12.0/packages/SystemUI/res/values/config.xml",
+      "parentUuid": "bacf61ea_405804fb",
       "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -223,6 +403,24 @@
     },
     {
       "key": {
+        "uuid": "bacf61ea_00d3ac39",
+        "filename": "power/power.c",
+        "patchSetId": 5
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-02-09T22:01:34Z",
+      "side": 1,
+      "message": "Because this is the only way to wake-up faster the device. (even Stock ROM uses this \"method\")",
+      "parentUuid": "bacf61ea_8072fc7a",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bacf61ea_606f0893",
         "filename": "pvrsrvctl/Android.mk",
         "patchSetId": 5
@@ -234,6 +432,24 @@
       "writtenOn": "2015-02-09T19:46:02Z",
       "side": 1,
       "message": "It is probably better to declare the module you are linking against as a real module target from the vendor library, then add them to LOCAL_SHARED_LIBRARIES.",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_e0d77821",
+        "filename": "pvrsrvctl/Android.mk",
+        "patchSetId": 5
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-02-09T22:01:34Z",
+      "side": 1,
+      "message": "Ok",
+      "parentUuid": "bacf61ea_606f0893",
       "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -257,6 +473,24 @@
     },
     {
       "key": {
+        "uuid": "bacf61ea_40dda441",
+        "filename": "ril/telephony/java/com/android/internal/telephony/ExynosXMM6360RIL.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-02-09T22:01:34Z",
+      "side": 1,
+      "message": "Unfortunately many ones are different.",
+      "parentUuid": "bacf61ea_c06cf49e",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bacf61ea_a069008e",
         "filename": "rootdir/etc/init.universal5410.rc",
         "patchSetId": 5
@@ -268,6 +502,24 @@
       "writtenOn": "2015-02-09T19:46:02Z",
       "side": 1,
       "message": "Changing the class for these services is unnecessary, they are listed as \u0027disabled\u0027 anyway.",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_20e23004",
+        "filename": "rootdir/etc/init.universal5410.rc",
+        "patchSetId": 5
+      },
+      "lineNbr": 480,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-02-09T22:01:34Z",
+      "side": 1,
+      "message": "Ok",
+      "parentUuid": "bacf61ea_a069008e",
       "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -291,6 +543,24 @@
     },
     {
       "key": {
+        "uuid": "bacf61ea_80e79c11",
+        "filename": "rootdir/etc/init.universal5410.usb.rc",
+        "patchSetId": 5
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-02-09T22:01:34Z",
+      "side": 1,
+      "message": "True",
+      "parentUuid": "bacf61ea_00056cc1",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bacf61ea_e00938df",
         "filename": "rootdir/etc/init.universal5410.wifi.rc",
         "patchSetId": 5
@@ -308,6 +578,24 @@
     },
     {
       "key": {
+        "uuid": "bacf61ea_c0f194cf",
+        "filename": "rootdir/etc/init.universal5410.wifi.rc",
+        "patchSetId": 5
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-02-09T22:01:34Z",
+      "side": 1,
+      "message": "Just ordered stuff",
+      "parentUuid": "bacf61ea_e00938df",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bacf61ea_400f64e1",
         "filename": "rootdir/etc/init.universal5410.wifi.rc",
         "patchSetId": 5
@@ -319,6 +607,24 @@
       "writtenOn": "2015-02-09T19:46:02Z",
       "side": 1,
       "message": "class is unnecessary here, these services are listed as \u0027disabled\u0027",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_60e4280d",
+        "filename": "rootdir/etc/init.universal5410.wifi.rc",
+        "patchSetId": 5
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-02-09T22:01:34Z",
+      "side": 1,
+      "message": "Ok",
+      "parentUuid": "bacf61ea_400f64e1",
       "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
