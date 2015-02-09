@@ -1,0 +1,327 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bacf61ea_a0bbc00d",
+        "filename": "audio/ril_interface.c",
+        "patchSetId": 5
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-02-09T19:46:02Z",
+      "side": 1,
+      "message": "Pretty sure this is still LOG_TAG",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_00372cb1",
+        "filename": "configs/audio_policy.conf",
+        "patchSetId": 5
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-02-09T19:46:02Z",
+      "side": 1,
+      "message": "This is probably not correct anymore. It should probably be 44100 due to recent changes.",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_e03bf89a",
+        "filename": "i9500.mk",
+        "patchSetId": 5
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-02-09T19:46:02Z",
+      "side": 1,
+      "message": "Trailing whitespace",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_804b1c2b",
+        "filename": "i9500.mk",
+        "patchSetId": 5
+      },
+      "lineNbr": 166,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-02-09T19:46:02Z",
+      "side": 1,
+      "message": "w comes after l and m",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_4041240b",
+        "filename": "i9500.mk",
+        "patchSetId": 5
+      },
+      "lineNbr": 168,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-02-09T19:46:02Z",
+      "side": 1,
+      "message": "libwpa_client should be an  implied target.",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_2046b023",
+        "filename": "i9500.mk",
+        "patchSetId": 5
+      },
+      "lineNbr": 169,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-02-09T19:46:02Z",
+      "side": 1,
+      "message": "d comes before h",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_6048a82e",
+        "filename": "i9500.mk",
+        "patchSetId": 5
+      },
+      "lineNbr": 216,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-02-09T19:46:02Z",
+      "side": 1,
+      "message": "I\u0027m still not sure about the need for this.",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_c05514c7",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 92,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-02-09T19:46:02Z",
+      "side": 1,
+      "message": "Is there a reason things in this file got shuffled around so much?",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_a052a0db",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 173,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-02-09T19:46:02Z",
+      "side": 1,
+      "message": "I9500 definitely shouldn\u0027t have any of the ambient display overlay options enabled.",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_005e0ce9",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 195,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-02-09T19:46:02Z",
+      "side": 1,
+      "message": "Where did these values come from? We can probably go decompile the stock Samsung framework JARs for these values too.",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_e062d8ac",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 256,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-02-09T19:46:02Z",
+      "side": 1,
+      "message": "I am not sure this is rmnet0, can you verify this?",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_405804fb",
+        "filename": "overlay/frameworks/base/packages/SystemUI/res/values/config.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-02-09T19:46:02Z",
+      "side": 1,
+      "message": "This is set to be the default now.",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_8072fc7a",
+        "filename": "power/power.c",
+        "patchSetId": 5
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-02-09T19:46:02Z",
+      "side": 1,
+      "message": "I don\u0027t understand why you want to enable/disable the input devices on set_interactive. In fact I don\u0027t understand why you want to enable/disable them manually at all.",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_606f0893",
+        "filename": "pvrsrvctl/Android.mk",
+        "patchSetId": 5
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-02-09T19:46:02Z",
+      "side": 1,
+      "message": "It is probably better to declare the module you are linking against as a real module target from the vendor library, then add them to LOCAL_SHARED_LIBRARIES.",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_c06cf49e",
+        "filename": "ril/telephony/java/com/android/internal/telephony/ExynosXMM6360RIL.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-02-09T19:46:02Z",
+      "side": 1,
+      "message": "Where did the need for a separate RIL class arise from? Which functions are actually different from the standard?",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_a069008e",
+        "filename": "rootdir/etc/init.universal5410.rc",
+        "patchSetId": 5
+      },
+      "lineNbr": 480,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-02-09T19:46:02Z",
+      "side": 1,
+      "message": "Changing the class for these services is unnecessary, they are listed as \u0027disabled\u0027 anyway.",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_00056cc1",
+        "filename": "rootdir/etc/init.universal5410.usb.rc",
+        "patchSetId": 5
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-02-09T19:46:02Z",
+      "side": 1,
+      "message": "adb definitely shouldn\u0027t be started here, this is a non-adb composition mode.",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_e00938df",
+        "filename": "rootdir/etc/init.universal5410.wifi.rc",
+        "patchSetId": 5
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-02-09T19:46:02Z",
+      "side": 1,
+      "message": "Was there a real reason to move these?",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_400f64e1",
+        "filename": "rootdir/etc/init.universal5410.wifi.rc",
+        "patchSetId": 5
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-02-09T19:46:02Z",
+      "side": 1,
+      "message": "class is unnecessary here, these services are listed as \u0027disabled\u0027",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
