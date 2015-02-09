@@ -421,6 +421,24 @@
     },
     {
       "key": {
+        "uuid": "bacf61ea_20b990ea",
+        "filename": "power/power.c",
+        "patchSetId": 5
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-02-09T22:21:00Z",
+      "side": 1,
+      "message": "Please explain how this makes any difference? I just don\u0027t understand why switching on/off input devices makes a difference.",
+      "parentUuid": "bacf61ea_00d3ac39",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bacf61ea_606f0893",
         "filename": "pvrsrvctl/Android.mk",
         "patchSetId": 5
