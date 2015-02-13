@@ -457,6 +457,24 @@
     },
     {
       "key": {
+        "uuid": "bacf61ea_175e49e9",
+        "filename": "power/power.c",
+        "patchSetId": 5
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-02-13T10:07:07Z",
+      "side": 1,
+      "message": "How can you tell that the stock ROM is doing this?",
+      "parentUuid": "bacf61ea_d7b95130",
+      "revId": "fdd449f41b20477d29dc43b32e483c3b1fd2fc98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bacf61ea_606f0893",
         "filename": "pvrsrvctl/Android.mk",
         "patchSetId": 5
