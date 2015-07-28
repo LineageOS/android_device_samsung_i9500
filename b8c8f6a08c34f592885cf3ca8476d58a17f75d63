@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf091321_8c05777d",
+        "filename": "i9500.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-28T21:03:27Z",
+      "side": 1,
+      "message": "Wait, sorry, actually I wasn\u0027t putting this stuff into i9500.mk. Put this into system.prop.",
+      "revId": "b8c8f6a08c34f592885cf3ca8476d58a17f75d63",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
