@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf091321_ecccf362",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 115,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-28T21:01:37Z",
+      "side": 1,
+      "message": "Where is BOARD_HAS_LARGE_FILESYSTEM used?",
+      "revId": "404b65c58b2b50c2804f11c0dbd34ea0c8c8455d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
