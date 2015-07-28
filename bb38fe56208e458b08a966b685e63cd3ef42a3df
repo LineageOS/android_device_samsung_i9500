@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "bf091321_ace03b98",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-07-28T21:27:31Z",
+      "side": 1,
+      "message": "Infact i don\u0027t want this set. My fault.",
+      "parentUuid": "bf091321_8c61f73c",
+      "revId": "bb38fe56208e458b08a966b685e63cd3ef42a3df",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bf091321_4c5bdf86",
         "filename": "audio/audio_hw.c",
         "patchSetId": 1
@@ -30,6 +48,24 @@
       "writtenOn": "2015-07-28T21:22:31Z",
       "side": 1,
       "message": "You probably don\u0027t want to change the period sizes. They are set this way to match the pcm_configs.",
+      "revId": "bb38fe56208e458b08a966b685e63cd3ef42a3df",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf091321_0c03a744",
+        "filename": "audio/audio_hw.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 81,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-07-28T21:27:31Z",
+      "side": 1,
+      "message": "Are you sure? It\u0027s pretty strange because tinyalsa standard configs matches this.",
+      "parentUuid": "bf091321_4c5bdf86",
       "revId": "bb38fe56208e458b08a966b685e63cd3ef42a3df",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "bf091321_ecff5332",
+        "filename": "audio/audio_hw.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 180,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-07-28T21:27:31Z",
+      "side": 1,
+      "message": "I don\u0027t remember sincerely.",
+      "parentUuid": "bf091321_0c55e750",
+      "revId": "bb38fe56208e458b08a966b685e63cd3ef42a3df",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bf091321_ac4b9bae",
         "filename": "audio/audio_hw.c",
         "patchSetId": 1
@@ -64,6 +118,24 @@
       "writtenOn": "2015-07-28T21:22:31Z",
       "side": 1,
       "message": "Why not use a variable to hold either PCM_CARD or PCM_CARD_SPDIF and use that as an index?",
+      "revId": "bb38fe56208e458b08a966b685e63cd3ef42a3df",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf091321_acf95b4e",
+        "filename": "audio/audio_hw.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 779,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-07-28T21:27:31Z",
+      "side": 1,
+      "message": "Could you please fix it for me?",
+      "parentUuid": "bf091321_ac4b9bae",
       "revId": "bb38fe56208e458b08a966b685e63cd3ef42a3df",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -87,6 +159,24 @@
     },
     {
       "key": {
+        "uuid": "bf091321_2ca30b52",
+        "filename": "audio/audio_hw.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 1090,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-07-28T21:27:31Z",
+      "side": 1,
+      "message": "https://github.com/CyanogenMod/android_device_samsung_manta/commit/22f4563456425e098765c6f196053acd904a8b17",
+      "parentUuid": "bf091321_4cd07fca",
+      "revId": "bb38fe56208e458b08a966b685e63cd3ef42a3df",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bf091321_2cd54bba",
         "filename": "audio/audio_hw.c",
         "patchSetId": 1
@@ -98,6 +188,24 @@
       "writtenOn": "2015-07-28T21:22:31Z",
       "side": 1,
       "message": "whitespace?",
+      "revId": "bb38fe56208e458b08a966b685e63cd3ef42a3df",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf091321_0c8847c4",
+        "filename": "audio/audio_hw.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 1225,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-07-28T21:27:31Z",
+      "side": 1,
+      "message": "Yeahhhhh there\u0027s a white space. Haha. I\u0027ll remove it lol",
+      "parentUuid": "bf091321_2cd54bba",
       "revId": "bb38fe56208e458b08a966b685e63cd3ef42a3df",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
