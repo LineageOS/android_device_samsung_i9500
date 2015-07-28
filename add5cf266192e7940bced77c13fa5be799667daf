@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf091321_0cf9677f",
+        "filename": "system.prop",
+        "patchSetId": 4
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-28T21:05:58Z",
+      "side": 1,
+      "message": "This should go in a different patchset.",
+      "revId": "add5cf266192e7940bced77c13fa5be799667daf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
