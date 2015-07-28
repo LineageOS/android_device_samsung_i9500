@@ -1,0 +1,157 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf091321_ccfc8f40",
+        "filename": "sepolicy/app.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-28T21:28:18Z",
+      "side": 1,
+      "message": "Huh, isn\u0027t this already granted?",
+      "revId": "54e1552b54bbfcad8aaaedb164bad43e14b6674f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf091321_8cefb786",
+        "filename": "sepolicy/cpboot-daemon.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-28T21:28:18Z",
+      "side": 1,
+      "message": "Yeah, I ended up not having a domain for cbd because of the neverallow.",
+      "revId": "54e1552b54bbfcad8aaaedb164bad43e14b6674f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf091321_6cf4635c",
+        "filename": "sepolicy/cpboot-daemon.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-28T21:28:18Z",
+      "side": 1,
+      "message": "This is overly broad. Consider labeling things so you can narrow the permissions grant.",
+      "revId": "54e1552b54bbfcad8aaaedb164bad43e14b6674f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf091321_4ce99f7e",
+        "filename": "sepolicy/cpboot-daemon.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-28T21:28:18Z",
+      "side": 1,
+      "message": "This is overly broad too.",
+      "revId": "54e1552b54bbfcad8aaaedb164bad43e14b6674f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf091321_2cee6b88",
+        "filename": "sepolicy/cpboot-daemon.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-28T21:28:18Z",
+      "side": 1,
+      "message": "This is overly broad as well.",
+      "revId": "54e1552b54bbfcad8aaaedb164bad43e14b6674f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf091321_6c99031e",
+        "filename": "sepolicy/file_contexts",
+        "patchSetId": 1
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-28T21:28:18Z",
+      "side": 1,
+      "message": "tab, also formatting.",
+      "revId": "54e1552b54bbfcad8aaaedb164bad43e14b6674f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf091321_ec84f3b3",
+        "filename": "sepolicy/gpsd.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-28T21:28:18Z",
+      "side": 1,
+      "message": "This seems overly broad...",
+      "revId": "54e1552b54bbfcad8aaaedb164bad43e14b6674f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf091321_ac8efbcd",
+        "filename": "sepolicy/rild.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-28T21:28:18Z",
+      "side": 1,
+      "message": "too many i\u0027s",
+      "revId": "54e1552b54bbfcad8aaaedb164bad43e14b6674f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf091321_8cbd776a",
+        "filename": "sepolicy/rild.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-28T21:28:18Z",
+      "side": 1,
+      "message": "Put rild sysfs nodes under sysfs_radio instead.",
+      "revId": "54e1552b54bbfcad8aaaedb164bad43e14b6674f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
