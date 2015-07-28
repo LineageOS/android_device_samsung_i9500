@@ -72,6 +72,24 @@
     },
     {
       "key": {
+        "uuid": "bf091321_0cb16790",
+        "filename": "audio/audio_hw.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 81,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-28T21:30:54Z",
+      "side": 1,
+      "message": "I tuned these with a smaller buffer for the fast config, a larger buffer for deep buffer, and as small an input buffer as I could get away with. Smaller buffers \u003d lower latency. Larger buffers \u003d more infrequent updates. That\u0027s the whole point of Google\u0027s audio model.",
+      "parentUuid": "bf091321_0c03a744",
+      "revId": "bb38fe56208e458b08a966b685e63cd3ef42a3df",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bf091321_0c55e750",
         "filename": "audio/audio_hw.c",
         "patchSetId": 1
@@ -171,6 +189,24 @@
       "side": 1,
       "message": "https://github.com/CyanogenMod/android_device_samsung_manta/commit/22f4563456425e098765c6f196053acd904a8b17",
       "parentUuid": "bf091321_4cd07fca",
+      "revId": "bb38fe56208e458b08a966b685e63cd3ef42a3df",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf091321_ecad1332",
+        "filename": "audio/audio_hw.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 1090,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-28T21:30:54Z",
+      "side": 1,
+      "message": "You should have picked that patch and preserved the authorship then.",
+      "parentUuid": "bf091321_2ca30b52",
       "revId": "bb38fe56208e458b08a966b685e63cd3ef42a3df",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
