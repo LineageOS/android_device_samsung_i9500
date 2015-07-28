@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf091321_ccc48f43",
+        "filename": "bluetooth/libbt_vndcfg.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-28T21:49:15Z",
+      "side": 1,
+      "message": "You only need this last line.",
+      "revId": "14411126b09a35484135f798be68785211852b5f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
