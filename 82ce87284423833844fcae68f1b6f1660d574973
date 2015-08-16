@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f231b9d_ec7f44a9",
+        "filename": "cm.dependencies",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 8961
+      },
+      "writtenOn": "2015-08-16T02:14:25Z",
+      "side": 1,
+      "message": "You add it twice....",
+      "range": {
+        "startLine": 16,
+        "startChar": 56,
+        "endLine": 16,
+        "endChar": 57
+      },
+      "revId": "82ce87284423833844fcae68f1b6f1660d574973",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
