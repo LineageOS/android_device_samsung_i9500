@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1f1a1f67_9617caee",
+        "filename": "power/power.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 61,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-09-10T22:31:03Z",
+      "side": 1,
+      "message": "Do you actually need to disable GPIO keys? This should be volume up/down + home.",
+      "revId": "5479451c89a03d94a56dcbf1cc1624cfa3627056",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
