@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "1f1a1f67_76366eb7",
+        "filename": "power/power.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 90,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-09-10T22:20:10Z",
+      "side": 1,
+      "message": "You probably don\u0027t even need this function at all, you can just hardcode the path, since it will never change for this device.",
+      "revId": "6dce0a53bdb421d0523621721bb7fe9a8337be86",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1f1a1f67_b6b7663b",
         "filename": "power/power.c",
         "patchSetId": 1
@@ -13,6 +30,40 @@
       "writtenOn": "2015-09-10T22:14:17Z",
       "side": 1,
       "message": "I don\u0027t remember if this can be triggered in cases that are not screen blank/unblank.",
+      "revId": "6dce0a53bdb421d0523621721bb7fe9a8337be86",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1f1a1f67_16d05a50",
+        "filename": "power/power.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 120,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-09-10T22:20:10Z",
+      "side": 1,
+      "message": "Why can\u0027t you do this block in power_init? That way you don\u0027t have this nasty have_found_paths variable.",
+      "revId": "6dce0a53bdb421d0523621721bb7fe9a8337be86",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1f1a1f67_563b729b",
+        "filename": "power/power.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 130,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-09-10T22:20:10Z",
+      "side": 1,
+      "message": "This code does nothing.",
       "revId": "6dce0a53bdb421d0523621721bb7fe9a8337be86",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
