@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1f1a1f67_567a5288",
+        "filename": "system.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-09-10T22:09:11Z",
+      "side": 1,
+      "message": "O comes after N",
+      "revId": "c58cd4f1c296b89644563905013681910d60c958",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
