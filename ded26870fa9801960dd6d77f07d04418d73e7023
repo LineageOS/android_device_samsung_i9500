@@ -16,6 +16,24 @@
       "revId": "ded26870fa9801960dd6d77f07d04418d73e7023",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff346bd7_b5be2afd",
+        "filename": "rootdir/etc/init.universal5410.rc",
+        "patchSetId": 3
+      },
+      "lineNbr": 530,
+      "author": {
+        "id": 4815
+      },
+      "writtenOn": "2015-09-17T01:02:47Z",
+      "side": 1,
+      "message": "Yep, but it is required to properly switch between profiles. As you can see, performance profile uses \"performance\" governor.",
+      "parentUuid": "ff346bd7_35cb5aa6",
+      "revId": "ded26870fa9801960dd6d77f07d04418d73e7023",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
