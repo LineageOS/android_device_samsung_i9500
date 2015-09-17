@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff346bd7_35cb5aa6",
+        "filename": "rootdir/etc/init.universal5410.rc",
+        "patchSetId": 3
+      },
+      "lineNbr": 530,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-09-17T01:01:44Z",
+      "side": 1,
+      "message": "Doesn\u0027t this just set the current default?",
+      "revId": "ded26870fa9801960dd6d77f07d04418d73e7023",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
